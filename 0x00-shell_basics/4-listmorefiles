@@ -1,2 +1,2 @@
 #!/bin/bash
-ls -l -ad .*
+ls-l -a
